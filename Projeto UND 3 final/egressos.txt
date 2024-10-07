@@ -1,0 +1,10 @@
+002 Ana Carolina Arquitetura e Urbanismo 2018 Trabalhando ArqUrbsBrasil ana.carolina@gmail.com
+007 Beatriz Souza Engenharia de Software 2019 Trabalhando SoftSolutions beatriz.souza.soft@gmail.com
+005 Camila Santos Medicina 2017 Trabalhando HospitalVida camila.santos.med@gmail.com
+009 Carolina Lima Administração 2021 Estudando - carolina.lima.adm@gmail.com
+006 Felipe Almeida Direito 2022 Estudando - felipe.almeida.direito@gmail.com
+010 Gustavo Mendes CeT 2018 Trabalhando InfraTech gustavo.mendes.cet@gmail.com
+001 João Pedro BTI 2020 Estudando - joao.pedro.bti@gmail.com
+004 Lucas Ferreira Engenharia da Computação 2021 Estagiando TechPlus lucas.ferreira.comp@gmail.com
+003 Maria Eduarda Engenharia Civil 2019 Trabalhando ConstrutoraElite maria.edu.civil@gmail.com
+008 Rafael Oliveira Engenharia Ambiental 2020 Estagiando GreenFuture rafael.oliveira.ambiental@gmail.com
